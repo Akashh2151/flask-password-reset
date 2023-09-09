@@ -63,7 +63,7 @@ Clone the repository to your local machine:
 
 shell
 Copy code
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Akashh2151/flask-password-reset
 Install the required Python packages:
 
 shell
